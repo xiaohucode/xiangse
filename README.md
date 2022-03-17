@@ -23,7 +23,16 @@ https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/duboku.xbs
 
 天空影视 解析一般,容易失效
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/tkys.xbs
+
+18av🔞 大量中文字幕.更新播放快
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/18av.xbs
+
+hanime动漫🔞 H动漫;懂得都懂
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/18av.xbs
+
 ```
+
+
 
 # 漫画源
 ```
