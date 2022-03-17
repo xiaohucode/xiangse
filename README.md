@@ -18,16 +18,16 @@ https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/dsxys.xbs
 动漫星球(优质源)看番剧
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/dmxq.xbs
 
-独播库(优质源)资源更新快,需要科学上网
+独播库(优质源)资源更新快,需要(萪敩仩蛧)
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/duboku.xbs
 
 天空影视 解析一般,容易失效
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/tkys.xbs
 
-18av🔞 中文字幕H动漫.更新播放快
+18av🔞 中文字幕H动漫.更新播放快(萪敩仩蛧)
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/18av.xbs
 
-hanime动漫🔞 H动漫;懂得都懂
+hanime动漫🔞 H动漫;懂得都懂(萪敩仩蛧)
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/hanime.xbs
 
 ```
