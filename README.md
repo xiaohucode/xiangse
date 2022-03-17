@@ -1,7 +1,6 @@
 # 香色闺阁益达源 
 
 # 视频源
-
 ```
 97kp(优质源)包含国内外影视剧 解析快-资源一般
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/97kp.xbs
@@ -29,9 +28,7 @@ https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/18av.xbs
 
 hanime动漫🔞 H动漫;懂得都懂(萪敩仩蛧)
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/hanime.xbs
-
 ```
-
 # 漫画源
 ```
 奇漫屋(优) 国漫多
@@ -45,7 +42,6 @@ https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/mugua.xbs
 
 亲亲漫画 国漫资源一般,主要🔞日漫韩漫
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/qinhm.xbs
-
 ```
 # 小说源
 ```
@@ -54,13 +50,11 @@ https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/feiszw.xbs
 
 红甘泉 
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/hgq.xbs
-
 ```
 # 有声
 ```
 我听评书网 (老白故事的资源)
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/audio/wtpsw.xbs
-
 ```
 
 
