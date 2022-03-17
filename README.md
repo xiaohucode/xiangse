@@ -28,11 +28,9 @@ https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/tkys.xbs
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/18av.xbs
 
 hanime动漫🔞 H动漫;懂得都懂
-https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/18av.xbs
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/hanime.xbs
 
 ```
-
-
 
 # 漫画源
 ```
