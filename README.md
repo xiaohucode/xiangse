@@ -24,3 +24,36 @@ https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/duboku.xbs
 天空影视 解析一般,容易失效
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/tkys.xbs
 ```
+
+# 漫画源
+```
+奇漫屋(优) 国漫多
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/qimanwu.xbs
+
+漫神(优) 国漫 日漫 资源多
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/manshen.xbs
+
+木瓜漫画(优) 🔞韩漫 日漫 国产3D
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/mugua.xbs
+
+亲亲漫画 国漫资源一般,主要🔞日漫韩漫
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/qinhm.xbs
+
+```
+# 小说源
+```
+飞速中文 可看部分飞卢
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/feiszw.xbs
+
+红甘泉 
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/hgq.xbs
+
+```
+# 有声
+```
+我听评书网 (老白故事的资源)
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/audio/wtpsw.xbs
+
+```
+
+
