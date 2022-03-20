@@ -40,6 +40,10 @@ https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/qimanwu.xbs
 漫神(优) 国漫 日漫 资源多
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/manshen.xbs
 
+忆漫(优) 👾的源,只做了修复
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/ym.xbs
+
+
 木瓜漫画(优) 🔞韩漫 日漫 国产3D
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/mugua.xbs
 
@@ -53,7 +57,11 @@ https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/feiszw.xbs
 
 红甘泉 
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/hgq.xbs
+
+360小说网 首次使用需要登陆,Cookie保持一个月
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/360xs.xbs
 ```
+
 # 有声
 ```
 我听评书网 (老白故事的资源)
