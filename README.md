@@ -64,6 +64,9 @@ https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/360xs.xbs
 
 # 有声
 ```
+老白故事 (抓的APP端的资源)
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/audio/laobaigs.xbs
+
 我听评书网 (老白故事的资源)
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/audio/wtpsw.xbs
 ```
