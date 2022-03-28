@@ -29,6 +29,9 @@ https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/mgtv.xbs
 天空影视 解析一般,容易失效
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/tkys.xbs
 
+快猫APP🔞 (app源) 抓的APP数据,已过滤需要付费的视频
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/kuaimao.xbs
+
 18av🔞 中文字幕H动漫.更新播放快(萪敩仩蛧)
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/18av.xbs
 
