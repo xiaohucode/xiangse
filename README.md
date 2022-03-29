@@ -46,9 +46,11 @@ https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/qimanwu.xbs
 漫神(优) 国漫 日漫 资源多
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/manshen.xbs
 
+笨笨熊漫画
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/bbxcomic.xbs
+
 忆漫(优) 👾的源,只做了修复
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/ym.xbs
-
 
 木瓜漫画(优) 🔞韩漫 日漫 国产3D
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/mugua.xbs
