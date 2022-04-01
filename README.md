@@ -23,6 +23,9 @@ https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/duboku.xbs
 AnFuns动漫(优质源)蓝光无修番剧(极品)非大陆IP会触发CF 
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/AnFuns.xbs
 
+6动漫(优质源)
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/6dm.xbs
+
 芒果TV(优) 
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/mgtv.xbs
 
