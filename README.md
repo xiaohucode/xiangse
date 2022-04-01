@@ -66,9 +66,14 @@ https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/feiszw.xbs
 红甘泉 
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/hgq.xbs
 
+神藏小说网
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/szxs.xbs
+```
+
 360小说网 首次使用需要登陆,Cookie保持一个月
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/360xs.xbs
 ```
+
 
 # 有声
 ```
