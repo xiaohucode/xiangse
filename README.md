@@ -49,6 +49,12 @@ https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/qimanwu.xbs
 漫神(优) 国漫 日漫 资源多
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/manshen.xbs
 
+好漫6
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/haoman6.xbs
+
+好漫8
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/haoman8.xbs
+
 笨笨熊漫画
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/bbxcomic.xbs
 
