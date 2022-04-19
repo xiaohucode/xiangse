@@ -11,7 +11,7 @@ https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/555dy.xbs
 饭团影视(优质源) 包含国内外影视剧动漫综艺
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/fantuan.xbs
 
-~~星空影视(失效) 包含国内外影视剧-资源全~~ 
+星空影视(失效) 包含国内外影视剧-资源全
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/xkys.xbs
 
 大师兄影视(优质源)包含国内外影视剧-资源全
