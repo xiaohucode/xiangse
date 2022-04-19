@@ -69,8 +69,14 @@ https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/qinhm.xbs
 ```
 # 小说源
 ```
-飞速中文 可看部分飞卢
+飞速中文 
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/feiszw.xbs
+
+33言情  
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/33qy.xbs
+
+完本神站(无搜索)
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/wbsz.xbs
 
 红甘泉 
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/hgq.xbs
