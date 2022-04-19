@@ -73,7 +73,7 @@ https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/qinhm.xbs
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/feiszw.xbs
 
 33言情  
-https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/33qy.xbs
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/33yq.xbs
 
 完本神站(无搜索)
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/wbsz.xbs
