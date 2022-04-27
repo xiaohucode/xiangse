@@ -74,7 +74,7 @@ https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/qinhm.xbs
 
 ```
 看书助手(聚合) 聚合搜索全网小说
-https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/ReaderHlper.xbs
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/%E7%9C%8B%E4%B9%A6%E5%8A%A9%E6%89%8B(%E8%81%9A%E5%90%88).xbs
 
 飞速中文 
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/feiszw.xbs
