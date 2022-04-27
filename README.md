@@ -71,7 +71,11 @@ https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/mugua.xbs
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/qinhm.xbs
 ```
 # 小说源
+
 ```
+看书助手(聚合) 聚合搜索全网小说
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/ReaderHlper.xbs
+
 飞速中文 
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/feiszw.xbs
 
