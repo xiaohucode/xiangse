@@ -72,7 +72,12 @@ https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/qinhm.xbs
 ```
 # 小说源
 
+
+
 ```
+爱阅小说app(优)
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/aiyueks.xbs
+
 看书助手(聚合) 聚合搜索全网小说
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/kszs.xbs
 
