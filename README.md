@@ -1,10 +1,9 @@
 # 香色闺阁益达源 
 
 # QQ频道
-点击加入QQ频道[【香色闺阁】](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=1tx5fU&from=181074&biz=ka)
+加入QQ频道[【香色闺阁】](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=1tx5fU&from=181074&biz=ka)
 
 ![](/img/imgqun.png)
-
 
 # 视频源
 ```
