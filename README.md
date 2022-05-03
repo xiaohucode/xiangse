@@ -19,8 +19,11 @@ https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/fantuan.xbs
 星空影视(优质源) 包含国内外影视剧-资源全
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/xkys.xbs
 
-大师兄影视(优质源)包含国内外影视剧-资源全
-https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/dsxys.xbs
+樱花动漫
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/yhdm.xbs
+
+动漫巴士
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/dmbs.xbs
 
 动漫星球(优质源)看番剧
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/dmxq.xbs
