@@ -21,6 +21,9 @@ https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/xkys.xbs
 大师兄影视(优质源) 包含国内外影视剧-资源全
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/dssys.xbs
 
+厂长资源
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/czzy.xbs
+
 樱花动漫
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/yhdm.xbs
 
