@@ -18,32 +18,33 @@ https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/fantuan.xbs
 
 星空影视(优质源) 包含国内外影视剧-资源全
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/xkys.xbs
+
+zzzfun番剧(优质源)APP源
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/zzzfun.xbs
+
 大师兄影视(优质源) 包含国内外影视剧-资源全
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/dssys.xbs
 
 厂长资源
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/czzy.xbs
 
-樱花动漫
-https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/yhdm.xbs
+动漫星球(优质源)看番剧
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/dmxq.xbs
 
 动漫巴士
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/dmbs.xbs
 
-动漫星球(优质源)看番剧
-https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/dmxq.xbs
+6动漫(优质源)
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/6dm.xbs
+
+樱花动漫
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/yhdm.xbs
 
 独播库(优质源)资源更新快,需要(萪敩仩蛧)
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/duboku.xbs
 
 AnFuns动漫(优质源)蓝光无修番剧(极品)非大陆IP会触发CF 
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/AnFuns.xbs
-
-zzzfun番剧(优质源)APP源
-https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/zzzfun.xbs
-
-6动漫(优质源)
-https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/6dm.xbs
 
 芒果TV(优) 
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/mgtv.xbs
