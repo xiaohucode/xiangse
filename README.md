@@ -23,7 +23,7 @@ zzzfun番剧(优质源)APP源
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/zzzfun.xbs
 
 大师兄影视(优质源) 包含国内外影视剧-资源全
-https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/dssys.xbs
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/dsxys.xbs
 
 厂长资源
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/czzy.xbs
