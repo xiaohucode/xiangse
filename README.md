@@ -98,6 +98,12 @@ https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/aiyueks.xbs
 看书助手(聚合) 聚合搜索全网小说
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/kszs.xbs
 
+红甘泉 
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/hgq.xbs
+
+ 看书啦
+https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/ksl.xbs
+
 飞速中文 
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/feiszw.xbs
 
@@ -107,8 +113,7 @@ https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/33yq.xbs
 完本神站
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/wbsz.xbs
 
-红甘泉 
-https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/hgq.xbs
+
 
 神藏小说网
 https://cdn.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/szxs.xbs
