@@ -7,7 +7,7 @@
 
 # 整合网络导入
 ```
-https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/README.md
+https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/README-CN.md
 ```
 
 # 视频源
