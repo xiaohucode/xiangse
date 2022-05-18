@@ -5,12 +5,16 @@
 
 ![](/img/imgqun.png)
 
-
 # 香色APP内导入网址
 ```
 https://raw.githubusercontent.com/xiaohucode/xiangse/main/README.md
 ```
 ![](/img/dao.PNG)
+
+# 国内加速
+```
+https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/README.md
+```
 
 
 # 视频源
