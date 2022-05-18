@@ -5,6 +5,11 @@
 
 ![](/img/imgqun.png)
 
+# 整合网络导入
+```
+https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/README.md
+```
+
 # 视频源
 ```
 97kp(优质源)包含国内外影视剧 解析快-资源一般
