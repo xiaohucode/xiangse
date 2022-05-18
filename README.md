@@ -5,7 +5,12 @@
 
 ![](/img/imgqun.png)
 
-https://github.com/xiaohucode/xiangse/raw/main/TV/18av.xbs
+
+# 香色APP内导入网址
+```
+https://raw.githubusercontent.com/xiaohucode/xiangse/main/README.md
+```
+![](/img/dao.PNG)
 
 
 # 视频源
