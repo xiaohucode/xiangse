@@ -125,7 +125,8 @@ https://github.com/xiaohucode/xiangse/raw/main/novel/33yq.xbs
 完本神站
 https://github.com/xiaohucode/xiangse/raw/main/novel/wbsz.xbs
 
-
+第一版主7777🔞
+https://github.com/xiaohucode/xiangse/raw/main/novel/bz7777.xbs
 
 神藏小说网
 https://github.com/xiaohucode/xiangse/raw/main/novel/szxs.xbs
