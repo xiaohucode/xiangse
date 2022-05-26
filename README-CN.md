@@ -118,7 +118,8 @@ https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/33yq.xbs
 完本神站
 https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/wbsz.xbs
 
-
+第一版主7777🔞
+https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/dybz777.xbs
 
 神藏小说网
 https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/szxs.xbs
