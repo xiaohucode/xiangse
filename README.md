@@ -126,7 +126,7 @@ https://github.com/xiaohucode/xiangse/raw/main/novel/33yq.xbs
 https://github.com/xiaohucode/xiangse/raw/main/novel/wbsz.xbs
 
 第一版主7777🔞
-https://github.com/xiaohucode/xiangse/raw/main/novel/bz7777.xbs
+https://github.com/xiaohucode/xiangse/raw/main/novel/dybz777.xbs
 
 神藏小说网
 https://github.com/xiaohucode/xiangse/raw/main/novel/szxs.xbs
