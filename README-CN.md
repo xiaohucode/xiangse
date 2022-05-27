@@ -74,6 +74,9 @@ https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/qimanwu.xbs
 漫神(优) 国漫 日漫 资源多
 https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/manshen.xbs
 
+漫画吧(优) 国漫 日漫 资源多
+https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/mhba.xbs
+
 好漫6
 https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/manga/haoman6.xbs
 
