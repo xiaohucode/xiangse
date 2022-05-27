@@ -81,6 +81,9 @@ https://github.com/xiaohucode/xiangse/raw/main/manga/qimanwu.xbs
 漫神(优) 国漫 日漫 资源多
 https://github.com/xiaohucode/xiangse/raw/main/manga/manshen.xbs
 
+漫画吧(优) 国漫 日漫 资源多
+https://github.com/xiaohucode/xiangse/raw/main/manga/mhba.xbs
+
 好漫6
 https://github.com/xiaohucode/xiangse/raw/main/manga/haoman6.xbs
 
