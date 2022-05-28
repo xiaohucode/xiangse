@@ -109,7 +109,7 @@ https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/kszs.xbs
 红甘泉 
 https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/hgq.xbs
 
- 看书啦
+看书啦
 https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/ksl.xbs
 
 飞速中文 
@@ -122,7 +122,7 @@ https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/33yq.xbs
 https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/wbsz.xbs
 
 第一版主7777🔞
-https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/dybz777.xbs
+https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/dybz7777.xbs
 
 神藏小说网
 https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/novel/szxs.xbs
