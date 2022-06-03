@@ -128,6 +128,10 @@ https://github.com/xiaohucode/xiangse/raw/main/novel/33yq.xbs
 完本神站
 https://github.com/xiaohucode/xiangse/raw/main/novel/wbsz.xbs
 
+起点中文(正版)补齐三江分类 需要看正版可以在书籍内容界面登陆起点账号
+https://github.com/xiaohucode/xiangse/raw/main/novel/qidian.xbs
+
+
 第一版主7777🔞
 https://github.com/xiaohucode/xiangse/raw/main/novel/dybz7777.xbs
 
