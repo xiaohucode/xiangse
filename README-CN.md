@@ -33,7 +33,7 @@ https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/dsxys.xbs
 厂长资源
 https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/czzy.xbs
 
-动漫星球(优质源)看番剧
+大米星球(优质源)
 https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/dmxq.xbs
 
 动漫巴士
