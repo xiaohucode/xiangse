@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/xiaohucode/xiangse/main/README.md
 
 # 国内加速
 ```
-https://fastly.jsdelivr.net/gh/xiaohucode/xiangse@main/README-CN.md
+https://gcore.jsdelivr.net/gh/xiaohucode/xiangse@main/README-CN.md
 ```
 
 
