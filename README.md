@@ -146,6 +146,9 @@ https://github.com/xiaohucode/xiangse/raw/main/novel/360xs.xbs
 
 # 有声
 ```
+海洋听书
+https://github.com/xiaohucode/xiangse/raw/main/audio/hyts.xbs
+
 老白故事 (抓的APP端的资源)
 https://github.com/xiaohucode/xiangse/raw/main/audio/laobaigs.xbs
 
