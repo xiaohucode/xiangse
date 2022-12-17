@@ -15,6 +15,9 @@ https://gcore.jsdelivr.net/gh/xiaohucode/xiangse@main/README-CN.md
 97kp(优质源)包含国内外影视剧 解析快-资源一般
 https://gcore.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/97kp.xbs
 
+freeok(优质源)包含国内外影视剧 解析快-资源全
+https://gcore.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/freeok.xbs
+
 555电影(优质源)包含国内外影视剧-Netflix蓝光,福利 
 https://gcore.jsdelivr.net/gh/xiaohucode/xiangse@main/TV/555dy.xbs
 
