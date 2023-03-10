@@ -19,6 +19,11 @@ https://gcore.jsdelivr.net/gh/xiaohucode/xiangse@main/README-CN.md
 
 # 视频源
 ```
+泥视频(优质源)包含国内外影视剧 解析快-需要开魔法
+https://github.com/xiaohucode/xiangse/raw/main/TV/nitv-1.xbs
+泥视频-午夜版(优质源)成人版,解析快-需要开魔法
+https://github.com/xiaohucode/xiangse/raw/main/TV/nitv-2.xbs
+
 97kp(优质源)包含国内外影视剧 解析快-资源一般
 https://github.com/xiaohucode/xiangse/raw/main/TV/97kp.xbs
 
