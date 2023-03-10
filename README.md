@@ -124,9 +124,6 @@ https://github.com/xiaohucode/xiangse/raw/main/novel/kszs.xbs
 红甘泉 
 https://github.com/xiaohucode/xiangse/raw/main/novel/hgq.xbs
 
- 看书啦
-https://github.com/xiaohucode/xiangse/raw/main/novel/ksl.xbs
-
 飞速中文 
 https://github.com/xiaohucode/xiangse/raw/main/novel/feiszw.xbs
 
@@ -139,9 +136,6 @@ https://github.com/xiaohucode/xiangse/raw/main/novel/wbsz.xbs
 起点中文(正版)补齐三江分类 需要看正版可以在书籍内容界面登陆起点账号
 https://github.com/xiaohucode/xiangse/raw/main/novel/qidian.xbs
 
-
-第一版主7777🔞
-https://github.com/xiaohucode/xiangse/raw/main/novel/dybz7777.xbs
 
 神藏小说网
 https://github.com/xiaohucode/xiangse/raw/main/novel/szxs.xbs
