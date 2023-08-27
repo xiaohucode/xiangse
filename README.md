@@ -24,6 +24,10 @@ https://github.com/xiaohucode/xiangse/raw/main/TV/nitv-1.xbs
 泥视频-午夜版(优质源)成人版,解析快-需要开魔法
 https://github.com/xiaohucode/xiangse/raw/main/TV/nitv-2.xbs
 
+
+myself动漫(优质源)超清动漫资源
+https://github.com/xiaohucode/xiangse/raw/main/TV/myself.xbs
+
 97kp(优质源)包含国内外影视剧 解析快-资源一般
 https://github.com/xiaohucode/xiangse/raw/main/TV/97kp.xbs
 
@@ -85,6 +89,12 @@ https://github.com/xiaohucode/xiangse/raw/main/TV/hanime.xbs
 ```
 奇漫屋(优) 国漫多
 https://github.com/xiaohucode/xiangse/raw/main/manga/qimanwu.xbs
+
+速漫库(优) 国漫多
+https://github.com/xiaohucode/xiangse/raw/main/manga/sumanku.xbs
+
+6漫画(优) 国漫多
+https://github.com/xiaohucode/xiangse/raw/main/manga/6manhua.xbs
 
 漫神(优) 国漫 日漫 资源多
 https://github.com/xiaohucode/xiangse/raw/main/manga/manshen.xbs
