@@ -87,6 +87,9 @@ https://github.com/xiaohucode/xiangse/raw/main/TV/hanime.xbs
 ```
 # 漫画源
 ```
+vomic漫画(聚合)
+https://github.com/xiaohucode/xiangse/raw/main/manga/vomicmh.xbs
+
 奇漫屋(优) 国漫多
 https://github.com/xiaohucode/xiangse/raw/main/manga/qimanwu.xbs
 
