@@ -87,13 +87,21 @@ https://github.com/xiaohucode/xiangse/raw/main/TV/hanime.xbs
 ```
 # 漫画源
 ```
+
+
 vomic漫画(聚合)
 https://github.com/xiaohucode/xiangse/raw/main/manga/vomicmh.xbs
 
-奇漫屋(优) 国漫多
+笔趣漫画
+https://github.com/xiaohucode/xiangse/raw/main/manga/bqmh.xbs
+
+喵上漫画
+https://github.com/xiaohucode/xiangse/raw/main/manga/miaoshang.xbs
+
+奇漫屋(优) 国漫多(凉了)
 https://github.com/xiaohucode/xiangse/raw/main/manga/qimanwu.xbs
 
-速漫库(优) 国漫多
+速漫库(优) 国漫多(凉了)
 https://github.com/xiaohucode/xiangse/raw/main/manga/sumanku.xbs
 
 6漫画(优) 国漫多
@@ -117,7 +125,7 @@ https://github.com/xiaohucode/xiangse/raw/main/manga/bbxcomic.xbs
 忆漫(优) 👾的源,只做了修复
 https://github.com/xiaohucode/xiangse/raw/main/manga/ym.xbs
 
-木瓜漫画(优) 🔞韩漫 日漫 国产3D
+木瓜漫画(优) 🔞韩漫 日漫 国产3D(凉了)
 https://github.com/xiaohucode/xiangse/raw/main/manga/mugua.xbs
 
 亲亲漫画 国漫资源一般,主要🔞日漫韩漫
